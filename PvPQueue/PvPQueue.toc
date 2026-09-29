@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: PvP Queue
+## Notes: Compact Warmane PvP queue controls for 2v2, 3v3 and SoloQ.
+## Author: Fruitdealer1337
+## Version: 1.0.1
+## SavedVariables: PvPQueueDB
+
+Core.lua
+Bar.lua
+Config.lua
