@@ -2,7 +2,7 @@
 
 PvP Queue is a lightweight queue frontend for **Warmane WoW 3.3.5a**.
 
-It adds a small movable bar with quick access to **2v2**, **3v3**, **SoloQ**, and Warmane's full **PvP Menu**.
+It adds a small movable bar with quick access to **2v2**, **3v3**, **SoloQ**, and Warmane's full PvP Menu **FROM ANYWHERE YOU LIKE** 
 
 The addon does not recreate Warmane's queue system or send its own queue requests. It uses Warmane's own injected PvP Queue buttons after the server initializes them, with a small background warmup system to keep queueing reliable after arena and world transitions.
 
@@ -24,7 +24,7 @@ The addon does not recreate Warmane's queue system or send its own queue request
 
 ## Main Features
 
-- Quick 2v2, 3v3 and SoloQ queue buttons that gets clickable depending on PvP Menu state
+- Quick 2v2, 3v3 and SoloQ queue buttons that gets clickable depending on PvP Menu state. **Which let you to que even without the NPC** 
 - Direct access to Warmane's full PvP Menu
 - Automatic silent queue-menu warm-up after arena/world transitions
 
