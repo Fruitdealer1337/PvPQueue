@@ -14,7 +14,7 @@ The addon does not recreate Warmane's queue system or send its own queue request
 
 ### Queue Bar
 
-<img src="Examples/menu.png" alt="menu" width="225">
+<img src="Examples/menu.png" alt="menu" width="350">
 
 ### Configuration
 
